@@ -54,7 +54,7 @@ app.use(
  ***********************************************************************************/
 
 const url =
-  `mongodb+srv://virendra:kWhOmK6SbtQ4cNEp@cluster0.1dojkyf.mongodb.net/${process.env.DB_NAME}`
+  `mongodb+srv://Yash_Goyal:yashgoyal@cluster0.4cmcwfk.mongodb.net/?retryWrites=true&w=majority`
 const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
